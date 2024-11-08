@@ -1,0 +1,16 @@
+DROP DATABASE IF EXISTS dbpessoa;
+
+CREATE DATABASE dbpessoa;
+
+USE dbpessoa;
+
+
+CREATE TABLE pessoa (
+idpessoa INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(255),
+cpf VARCHAR(11) NOT NULL UNIQUE,
+datanascimento DATE,
+imagem LONGBLOB
+);
+
+select * from pessoa;

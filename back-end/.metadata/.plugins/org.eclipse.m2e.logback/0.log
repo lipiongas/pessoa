@@ -1,0 +1,65 @@
+2024-11-08 16:57:16,259 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-08 16:57:57,134 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Pessoa:Pessoa:0.0.1-SNAPSHOT @ C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\pom.xml.
+2024-11-08 16:57:58,631 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/main/java
+2024-11-08 16:57:58,634 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/main/resources
+2024-11-08 16:57:58,637 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/test/java
+2024-11-08 16:57:58,639 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/test/resources
+2024-11-08 16:57:58,995 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-08 16:57:59,712 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Pessoa:Pessoa:0.0.1-SNAPSHOT @ C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\pom.xml.
+2024-11-08 16:58:00,336 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/main/java
+2024-11-08 16:58:00,338 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/main/resources
+2024-11-08 16:58:00,339 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/test/java
+2024-11-08 16:58:00,340 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/test/resources
+2024-11-08 16:58:00,504 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Pessoa
+2024-11-08 16:58:00,531 [Worker-9: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-11-08 16:58:00,654 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:58:00,660 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 16:58:00,665 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:58:00,671 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 16:58:00,672 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Pessoa
+2024-11-08 16:58:00,673 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Pessoa
+2024-11-08 16:58:55,512 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:58:55,519 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 16:58:55,523 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:58:55,531 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 16:59:33,064 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:59:33,071 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 16:59:33,073 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:59:33,079 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 16:59:51,699 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:59:51,706 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 16:59:51,708 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 16:59:51,714 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:02:04,225 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:02:04,232 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:02:04,234 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:02:04,241 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:03:02,408 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: pessoa:pessoa:0.0.1-SNAPSHOT @ C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\pom.xml.
+2024-11-08 17:03:03,130 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:03:03,137 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:03:03,141 [Worker-29: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:03:03,147 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:03:03,147 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Pessoa
+2024-11-08 17:03:03,147 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Pessoa
+2024-11-08 17:03:03,374 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-08 17:03:03,888 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: pessoa:pessoa:0.0.1-SNAPSHOT @ C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\pom.xml.
+2024-11-08 17:03:05,036 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/main/java
+2024-11-08 17:03:05,038 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/main/resources
+2024-11-08 17:03:05,039 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/test/java
+2024-11-08 17:03:05,040 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/test/resources
+2024-11-08 17:03:05,744 [Worker-17: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Pessoa
+2024-11-08 17:03:05,771 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-11-08 17:03:05,783 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-11-08 17:03:06,295 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: pessoa:pessoa:0.0.1-SNAPSHOT @ C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\pom.xml.
+2024-11-08 17:03:07,282 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/main/java
+2024-11-08 17:03:07,283 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/main/resources
+2024-11-08 17:03:07,285 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pessoa/src/test/java
+2024-11-08 17:03:07,286 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Pessoa/src/test/resources
+2024-11-08 17:03:07,729 [Worker-12: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Pessoa
+2024-11-08 17:03:07,750 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 0,00 sec 
+2024-11-08 17:03:07,883 [Worker-20: Building Project Pessoa] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:03:07,891 [Worker-20: Building Project Pessoa] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:03:07,895 [Worker-20: Building Project Pessoa] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:03:07,904 [Worker-20: Building Project Pessoa] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:03:07,905 [Worker-20: Building Project Pessoa] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Pessoa
+2024-11-08 17:03:07,905 [Worker-20: Building Project Pessoa] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Pessoa
