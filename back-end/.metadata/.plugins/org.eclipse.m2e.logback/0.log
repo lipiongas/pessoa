@@ -63,3 +63,35 @@
 2024-11-08 17:03:07,904 [Worker-20: Building Project Pessoa] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
 2024-11-08 17:03:07,905 [Worker-20: Building Project Pessoa] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Pessoa
 2024-11-08 17:03:07,905 [Worker-20: Building Project Pessoa] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Pessoa
+2024-11-08 17:15:48,910 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:15:48,912 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:15:48,915 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:15:48,924 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:19:11,594 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:19:11,602 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:19:11,605 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:19:11,611 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:23:46,791 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:23:46,797 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:23:46,799 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:23:46,805 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:24:46,671 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:24:46,677 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:24:46,680 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:24:46,686 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:30:20,174 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:30:20,180 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:30:20,182 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:30:20,188 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:31:28,727 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:31:28,733 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:31:28,735 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:31:28,741 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:33:58,681 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:33:58,688 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:33:58,691 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:33:58,699 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
+2024-11-08 17:36:14,547 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:36:14,553 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\main\resources
+2024-11-08 17:36:14,556 [Worker-24: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-08 17:36:14,563 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\phillip\Desktop\pessoa\back-end\Pessoa\src\test\resources
